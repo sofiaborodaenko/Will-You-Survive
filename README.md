@@ -1,7 +1,8 @@
 # Will You Survive?
 This is my final grade 12 project that I co-developed with a friend. <br/>
 <br/>
-Will You Survive? <br/>
+Will You Survive❓ <br/>
+<br/>
 🦠 A deathly virus has overtaken the city <br/>
 🏃‍♀️ You play as one of the sole survivors of an apocalypse <br/>
 ✭  The objective of the game is to: <br/>
